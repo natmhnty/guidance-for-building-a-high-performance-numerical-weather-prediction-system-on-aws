@@ -19,7 +19,7 @@ Figure 1. Sample Surface temperature model obtained by Numerical Weather predict
 ### Architecture diagrams
 Architecture diagrams below show sample HPC Cluster architecture, provisoning process and user interactions via ParallelCluster UI in order to run numerical weather forecasting tasks
 <br/>
-<img src="static/images/hpc_cluster_architecture_final.png" alt="Provision AWS ParallelCluster UI and configure HPC cluster" width="80%" />
+<img src="static/images/hpc_cluster_architecture_review_update.png" alt="Provision AWS ParallelCluster UI and configure HPC cluster" width="80%" />
 <br/>
 Figure 2: AWS ParallelCluster UI and HPC Cluster Architecture
 
@@ -32,7 +32,7 @@ Below are steps that provision AWS ParallelCluster UI and configure HPC cluster 
 5. Users authenticated via ParallelCluster UI can connect to HPC cluster using [AWS SSM Session Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html) or via [NICE DCV](https://www.ni-sp.com/products/nice-dcv/) sessions
 
 <br>
-<img src="static/images/hpc_weather_prediction_workflow.png" alt="Sample HPC Cluster Architecture and user Interactions" width="80%" />
+<img src="static/images/hpc_weather_prediction_workflow_review.png" alt="Sample HPC Cluster Architecture and user Interactions" width="80%" />
 <br/>
 Figure 3. HPC Cluster Architecture and User interactions for running Numerical Weather prediction on AWS
 
